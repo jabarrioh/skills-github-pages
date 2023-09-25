@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog (Jabarrio)
+title: Welcome to my blog Jabarrio
 ---
 
